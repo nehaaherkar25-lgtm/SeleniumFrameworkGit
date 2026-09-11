@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# Test/reports generated during execution
+reports/
+
+# Maven wrapper generated files (keep only if you don't want to commit it)
+# .mvn/
+
+# OS generated files
+.DS_Store
+Thumbs.db
